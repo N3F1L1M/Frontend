@@ -1,6 +1,10 @@
 import { Route, Routes } from "react-router-dom";
+
 import "./App.css";
+
 import { Navbar } from "./components/Navbar";
+import Barradebusqueda from "./components/Barradebusqueda";
+
 
 import { About, Contact, Home, Services } from "./pages";
 
@@ -10,6 +14,7 @@ function App() {
 
       
       <Navbar />
+      <Barradebusqueda />
       
 
 
