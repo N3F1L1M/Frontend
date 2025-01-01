@@ -1,8 +1,8 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Navbar } from "./components/Navbar";
-import { Barradebusqueda } from "./components/Barradebusqueda";
-import { About, Contact, Home, Services } from "./components/pages";
+
+import { About, Contact, Home, Services } from "./pages";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
 
       
       <Navbar />
-      <Barradebusqueda/>
+      
 
 
       <Routes>
