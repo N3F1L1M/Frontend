@@ -1,0 +1,11 @@
+El comando RAFC te crea una plantilla para crar componentes automaticamente 
+como se usa? primero debes crear un archivo jsx con el nombre del componente, 
+ejemplo navbar.jsx   luego entras al archivo que creaste y escribes raFC y le das enter
+
+automaticamente te va crear una estructura para componentes 
+
+
+despues de que crees el archivo jsx del componente debes crear un archivo con el mismo nombre dentro de la carpeta
+de css e importarlo, puedes copiar como otros componentes importan el archivo css y solo le cambias el nombre 
+
+para que no te equivoques al escribir el nombre te recomiendo que entres al archivo jsx y copies directamente el nombre
