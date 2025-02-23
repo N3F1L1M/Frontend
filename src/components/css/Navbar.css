@@ -6,8 +6,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0f172a;
-    color: white;
+    background-color: #050506;
+    color: rgb(187, 15, 15);
     position: sticky;
     top: 0;
 }
